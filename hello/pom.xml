@@ -20,7 +20,7 @@
 
     <dependencies>
 
-        <!-- Web模块 -->
+        <!-- Web 模块 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
@@ -36,7 +36,7 @@
 
     <build>
         <plugins>
-            <!-- Spring Boot的Maven依赖 -->
+            <!-- SpringBoot 的 Maven 依赖 -->
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
